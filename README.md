@@ -96,14 +96,23 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 📅 Aura AI Planner
-AI-powered productivity planner that generates smart schedules, routines, and task prioritization.
+### 🧳 Explorra
+A responsive React JS tour & travel website showcasing popular destinations with a dynamic navbar, reusable components, and smooth animations.
+🔗 [Repo](https://github.com/MahaAbdulMukhtar/Explorra) • [Live Demo](https://explorra.vercel.app/)
 
-### 🎨 UI/UX Dashboard
-Modern responsive dashboard focused on clean user experience and visual hierarchy.
+### 🏠 Hamari-Manzil
+A hostel finder platform — mega project built collaboratively.
+🔗 [Repo](https://github.com/MahaAbdulMukhtar/Hamari-Manzil)
 
-### ✅ TaskFlow
-Task management application with drag-and-drop functionality and productivity tracking.
+### ✅ Habit Tracker
+Habit tracker with weekly grid, streak counters, and local storage persistence.
+🔗 [Repo](https://github.com/MahaAbdulMukhtar/habit-tracker) • [Live Demo](https://mahaabdulmukhtar.github.io/habit-tracker/)
+
+### 🎨 Luminary Studio
+A static HTML & CSS page built with semantic markup, Flexbox, and CSS Grid.
+🔗 [Repo](https://github.com/MahaAbdulMukhtar/Luminary-Studio) • [Live Demo](https://mahaabdulmukhtar.github.io/Luminary-Studio/)
+
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
